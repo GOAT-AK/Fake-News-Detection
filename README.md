@@ -61,12 +61,12 @@ To begin utilizing this application, follow these steps:
 1. Clone this repository:
    
    ```bash
-   git clone https://github.com/AmrMohamed16/Parkinson-s_Disease_Prediction_Project.git
+   git clone https://github.com/GOAT-AK/Fake-News-Detection
 
 2. Navigate to the cloned repository:
 
    ```bash
-   cd Parkinson-s_Disease_Prediction_Project
+   cd Fake-News-Detection
 
 3. Run the Python script:
 
