@@ -1,5 +1,5 @@
 # Fake-News-Detection
-Fake News Detection Project using Support Vector Machine (SVM) for Natural Language processing [CS411P] at Faculty of Computers &amp;amp; Information Sciences, Mansoura University
+Fake News Detection Project using Support Vector Machine (SVM) for Natural Language processing [CS411P] at Faculty of Computers &amp; Information Sciences, Mansoura University
 
 # Table of Content
 
@@ -9,7 +9,6 @@ Fake News Detection Project using Support Vector Machine (SVM) for Natural Langu
 * [Tools](#Tools)
 * [Remarks](#Remarks)
 * [Usage](#Usage)
-* [Sample Run](#SampleRun)
 
 
 # Brief
@@ -37,19 +36,25 @@ The dataset used in this project is the [Fake News Dataset](https://www.kaggle.c
 
 # Tools & Libraries
 
-- Jupyter Notebook
-- Python 3.x
-- pandas
-- nltk
-- scikit-learn
-- pickle
+I. Jupyter Notebook
 
+II. Python 3.x
+
+III. pandas
+
+IV. re
+
+V. nltk
+
+VI. scikit-learn
+
+VII. pickle
 
 
 
 # Remarks
-
-* Ensure that the required libraries are installed by running:
+* This Python program was run and tested in Jupyter Notebook.
+* Ensure the required libraries are installed by running:
 
   ```bash
   pip install pandas nltk scikit-learn
@@ -71,4 +76,6 @@ To begin utilizing this application, follow these steps:
 3. Run the Python script:
 
    ```bash
-   Parkinson's Disease.py
+   Fake_News_NLP.ipynb
+
+
