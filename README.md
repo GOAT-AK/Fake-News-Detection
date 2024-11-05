@@ -9,6 +9,7 @@ Fake News Detection Project using Support Vector Machine (SVM) for Natural Langu
 * [Tools](#Tools)
 * [Remarks](#Remarks)
 * [Usage](#Usage)
+* [Sample Run](#SampleRun)
 
 
 # Brief
@@ -78,4 +79,8 @@ To begin utilizing this application, follow these steps:
    ```bash
    Fake_News_NLP.ipynb
 
+# Sample Run
 
+
+* The Content Reliable
+  
