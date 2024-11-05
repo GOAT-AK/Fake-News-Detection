@@ -37,7 +37,7 @@ The dataset used in this project is the [Fake News Dataset](https://www.kaggle.c
 
 # Tools & Libraries
 
-I. Jupyter Notebook
+I. Jupyter Notebook & VS Code
 
 II. Python 3.x
 
@@ -51,6 +51,8 @@ VI. scikit-learn
 
 VII. pickle
 
+VIII. Streamlit
+
 
 
 # Remarks
@@ -58,7 +60,7 @@ VII. pickle
 * Ensure the required libraries are installed by running:
 
   ```bash
-  pip install pandas nltk scikit-learn
+  pip install pandas nltk scikit-learn streamlit
 
 # Usage
 
@@ -74,10 +76,16 @@ To begin utilizing this application, follow these steps:
    ```bash
    cd Fake-News-Detection
 
-3. Run the Python script:
+3. Run the Jupyter Notebook:
 
    ```bash
    Fake_News_NLP.ipynb
+
+4. Launch the Streamlit app:
+   
+   ```bash
+   streamlit run app.py
+    
 
 # Sample Run
 
