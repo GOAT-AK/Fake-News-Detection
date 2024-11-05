@@ -83,4 +83,15 @@ To begin utilizing this application, follow these steps:
 
 
 * The Content Reliable
+
+![Screenshot 2024-11-05 at 7 06 57 pm](https://github.com/user-attachments/assets/86104ec7-8710-4e6d-ac92-b7188daa7c42)
+
+
+<hr>
+
+
+* The Content Unreliable
+
+
+  
   
