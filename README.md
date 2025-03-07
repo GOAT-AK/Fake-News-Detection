@@ -22,7 +22,7 @@ With the proliferation of misinformation online, identifying fake news has becom
 The dataset used in this project is the [Fake News Dataset](https://www.kaggle.com/competitions/fake-news/data?select=train.csv) from Kaggle. This dataset contains various news articles, including features such as the author, title, and content, along with a label indicating whether the news is real (1) or fake (0).  
 
 
-# How It Works
+# How-It-Works
 
 - The dataset is loaded from a CSV file.
 - Missing values in the text data are handled appropriately.
