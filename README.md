@@ -9,7 +9,7 @@ Fake News Detection Project using Support Vector Machine (SVM) for Natural Langu
 * [Tools](#Tools)
 * [Remarks](#Remarks)
 * [Usage](#Usage)
-* [Sample Run](#SampleRun)
+* [Sample_Run](#Sample_Run)
 
 
 # Brief
