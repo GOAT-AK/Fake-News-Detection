@@ -87,7 +87,7 @@ To begin utilizing this application, follow these steps:
    streamlit run app.py
     
 
-# Sample Run
+# Sample_Run
 
 
 * The Content Reliable
